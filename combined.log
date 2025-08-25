@@ -1,0 +1,446 @@
+{"level":"info","message":"App started at port 7000","service":"auth-service","timestamp":"2025-08-08T09:36:43.945Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:49:48.995Z"}
+{"level":"info","message":"request from / having a method of GET","service":"auth-service","timestamp":"2025-08-08T09:49:57.239Z"}
+{"level":"info","message":"request from /favicon.ico having a method of GET","service":"auth-service","timestamp":"2025-08-08T09:49:57.474Z"}
+{"level":"info","message":"request from /proxy having a method of GET","service":"auth-service","timestamp":"2025-08-08T09:50:11.447Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:51:30.296Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:51:37.811Z"}
+{"level":"info","message":"request from /proxy having a method of GET","service":"auth-service","timestamp":"2025-08-08T09:51:52.481Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:52:46.745Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:52:47.762Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:53:38.920Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:53:48.251Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:54:18.639Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:54:19.456Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:58:15.127Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:19.190Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:20.358Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:27.471Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:31.069Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:32.332Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:33.051Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:37.211Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:39.420Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:47.070Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T09:59:50.256Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:00:15.992Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:00:24.945Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:03:52.861Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:03:56.305Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:04:13.680Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:04:16.192Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T10:04:17.010Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:22:30.617Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:22:43.237Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:22:47.067Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:22:55.735Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:22:57.354Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:23:35.810Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:23:50.615Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:24:01.103Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:25:02.174Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:25:46.315Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:25:47.597Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:26:47.731Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:28.619Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:34.351Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:37.761Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:40.361Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:43.584Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:45.888Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:47.823Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:51.823Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:30:59.631Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:04.095Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:05.268Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:06.409Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:07.260Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:14.789Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:43.032Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:31:57.112Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:02.538Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:03.708Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:04.925Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:07.929Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:23.641Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:24.965Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:32:25.791Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:33:12.532Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:33:18.417Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:40:18.643Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:40:29.773Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T12:43:29.059Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:07:33.469Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:07:59.428Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:09:00.167Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:09:24.692Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:09:28.108Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:09:30.475Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:09:40.817Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:09:56.893Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:10:15.002Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:10:20.163Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:10:23.938Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:10:54.876Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:11:00.086Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:11:04.691Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-08T13:11:16.368Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:11:19.616Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:11:53.461Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:12:05.638Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:12:48.002Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:13:00.189Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:21.755Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:52.624Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:53.861Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:54.836Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:56.035Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:56.856Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:57.739Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:20:58.212Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:21:06.594Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:26:21.751Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:26:27.584Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:27:17.341Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:29:11.151Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:31:33.932Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:33:07.914Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:33:42.000Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:34:45.105Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:34:53.110Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-08T13:35:00.831Z"}
+{"level":"info","message":"request from / having a method of GET","service":"auth-service","timestamp":"2025-08-22T01:04:13.652Z"}
+{"level":"info","message":"request from /vi1/auth having a method of GET","service":"auth-service","timestamp":"2025-08-22T01:04:39.781Z"}
+{"level":"info","message":"request from /vi1/auth/register having a method of GET","service":"auth-service","timestamp":"2025-08-22T01:04:47.605Z"}
+{"level":"info","message":"request from /vi1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:04:54.016Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:05:03.176Z"}
+{"level":"error","message":"SyntaxError: Expected double-quoted property name in JSON at position 26 (line 4 column 1)\n    at JSON.parse (<anonymous>)\n    at parse (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/body-parser/lib/types/json.js:77:19)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/body-parser/lib/read.js:123:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)\n    at invokeCallback (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/raw-body/index.js:238:16)\n    at done (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/raw-body/index.js:227:7)\n    at IncomingMessage.onEnd (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/raw-body/index.js:287:7)\n    at IncomingMessage.emit (node:events:507:28)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)","service":"auth-service","timestamp":"2025-08-22T01:05:41.933Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:05:49.138Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:06:14.465Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:06:23.056Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:06:31.802Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:07:21.520Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-22T01:07:32.829Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:11:59.438Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:10.650Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:16.993Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:17.831Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:18.829Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:21.002Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:23.523Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:28.714Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:29.632Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:31.095Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:33.915Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:36.198Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:39.112Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:42.282Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:45.173Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:50.112Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:52.447Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:56.472Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:12:57.470Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:05.882Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:09.978Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:12.727Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:16.307Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:18.371Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:21.923Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:26.190Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:28.130Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:29.306Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:32.434Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:34.273Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:35.630Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:37.121Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:39.658Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:41.794Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:56.696Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:13:59.443Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:02.958Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:05.070Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:06.653Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:12.916Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:15.780Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:18.429Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:19.831Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:24.152Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:26.980Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:28.846Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:39.277Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:42.279Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:44.485Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:50.192Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:51.274Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:52.703Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:14:56.835Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:01.144Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:06.523Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:08.894Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:13.316Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:18.584Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:22.513Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:24.519Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:26.206Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:29.666Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:30.880Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:32.761Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:35.297Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:39.263Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:43.257Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:45.366Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:47.523Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:48.248Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:49.239Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:50.389Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:51.077Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:53.509Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:54.811Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:15:59.383Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:01.690Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:05.207Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:06.083Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:09.205Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:14.561Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:19.742Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:20.780Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:23.849Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:26.210Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:27.568Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:31.488Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:38.174Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:39.370Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:41.418Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:42.837Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:43.695Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:46.735Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:50.094Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:51.070Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:53.240Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:16:57.292Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:00.827Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:04.537Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:09.819Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:14.856Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:18.905Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:22.848Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:28.837Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:32.097Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:39.733Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:40.587Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:41.721Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:17:46.786Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:02.084Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:04.162Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:06.531Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:09.938Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:11.109Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:11.927Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:13.030Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:19:15.458Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:21:58.587Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:21:59.382Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:00.476Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:03.748Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:05.675Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:13.755Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:21.866Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:31.605Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:33.543Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:36.201Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:37.513Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:38.561Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:41.035Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:42.459Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:47.570Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:48.536Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:57.255Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:22:58.496Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:01.698Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:08.853Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:11.364Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:15.393Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:17.578Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:19.646Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:22.279Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:23.966Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:25.590Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:27.982Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:29.969Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:32.006Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:36.034Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:38.122Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:40.777Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:41.640Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:42.609Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:23:46.809Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:24:55.362Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:25:10.972Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:25:12.487Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:25:25.425Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:25:26.447Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:17.866Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:21.865Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:23.806Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:25.232Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:26.050Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:27.729Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:28.607Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:31.498Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:51.712Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:26:58.717Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:27:00.634Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:27:02.879Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:27:32.178Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:28:26.377Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:28:28.599Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:28:29.928Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:32.755Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:33.741Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:35.434Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:38.327Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:40.832Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:44.660Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:45.414Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:53.823Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:29:56.193Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:30:00.195Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:30:02.922Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:30:36.292Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:31:30.888Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:31:36.083Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:31:37.210Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:31:54.254Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:58:36.509Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T01:58:41.166Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:00:23.561Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:01:36.962Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:01:44.931Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:01:46.190Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:01:48.054Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:15:10.250Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:15:46.068Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:15:46.068Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:10.119Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:10.119Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:13.867Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:13.876Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:16.226Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:17.618Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:17.741Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:18.985Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:16:19.069Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:16:58.420Z"}
+{"level":"info","message":"Attempt to login with oout a token","service":"auth-service","timestamp":"2025-08-25T02:16:58.421Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:18:45.097Z"}
+{"level":"info","message":"App started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:18:45.100Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:18:52.475Z"}
+{"level":"info","message":"Attempt to login with oout a token","service":"auth-service","timestamp":"2025-08-25T02:18:52.476Z"}
+{"level":"info","message":"request from /v1/auth having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:19:44.174Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:19:58.071Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:21:26.084Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:21:43.850Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:21:53.749Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:21:55.522Z"}
+{"level":"info","message":"request from /v1/auth/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:22:06.130Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:22:26.918Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:22:31.930Z"}
+{"level":"info","message":"request from /v1/auth/login having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:22:45.867Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:23:19.790Z"}
+{"level":"error","message":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/jsonwebtoken/verify.js:82:17)\n    at validateTokenMiddleware (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/middleware/authMiddleware.ts:22:32)\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:297:9\n    at processParams (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:582:12)\n    at next (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:291:5)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/server.ts:24:5\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)","service":"auth-service","timestamp":"2025-08-25T02:23:19.826Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:23:26.821Z"}
+{"level":"error","message":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/jsonwebtoken/verify.js:82:17)\n    at validateTokenMiddleware (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/middleware/authMiddleware.ts:22:32)\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:297:9\n    at processParams (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:582:12)\n    at next (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:291:5)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/server.ts:24:5\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)","service":"auth-service","timestamp":"2025-08-25T02:23:26.823Z"}
+{"level":"info","message":"App at  started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:24:56.032Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:25:03.106Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:25:49.787Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:25:52.915Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:25:56.851Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:26:00.383Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:26:03.175Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:30:08.077Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:41:47.834Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:41:54.349Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:41:57.771Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:02.171Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:15.952Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:16.827Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:23.896Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:33.135Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:36.738Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:38.932Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:42.675Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:43.455Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:42:47.743Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:43:02.103Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:44:01.152Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:44:40.285Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:06.897Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:11.108Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:17.856Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:21.349Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:23.005Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:25.994Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:28.794Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:45:33.811Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:45:43.563Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:36.355Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:38.696Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:42.840Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:48.722Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:51.716Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:55.762Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:57.652Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:46:59.843Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:47:02.126Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:47:05.295Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:47:10.718Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:47:12.259Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:48:01.040Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:50:45.052Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:50:46.970Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:50:53.487Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T02:50:53.488Z"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError","service":"auth-service","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/jsonwebtoken/verify.js:82:17)\n    at validateTokenMiddleware (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/middleware/authMiddleware.ts:23:9)\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:297:9\n    at processParams (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:582:12)\n    at next (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:291:5)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/server.ts:24:5\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)","timestamp":"2025-08-25T02:50:53.491Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:51:49.948Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:51:54.098Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:51:57.865Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:52:04.090Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T02:52:04.092Z"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError","service":"auth-service","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/jsonwebtoken/verify.js:82:17)\n    at validateTokenMiddleware (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/middleware/authMiddleware.ts:23:9)\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:297:9\n    at processParams (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:582:12)\n    at next (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:291:5)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/src/server.ts:24:5\n    at Layer.handleRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/router/index.js:342:13)","timestamp":"2025-08-25T02:52:04.100Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:53:30.667Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:54:46.299Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:54:54.611Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T02:54:54.613Z"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"error","message":"Proxy error: Invalid value \"undefined\" for header \"x-user-id\"","service":"auth-service","stack":"TypeError: Invalid value \"undefined\" for header \"x-user-id\"\n    at ClientRequest.setHeader (node:_http_outgoing:702:3)\n    at new ClientRequest (node:_http_client:302:14)\n    at Object.request (node:http:102:10)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:13:51\n    at new Promise (<anonymous>)\n    at sendProxyRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:11:10)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-25T02:54:54.625Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:24.342Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:26.885Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:29.910Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:32.788Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:37.633Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:58:45.600Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T02:59:09.143Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T02:59:13.648Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T02:59:13.652Z"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"error","message":"Proxy error: Invalid value \"undefined\" for header \"x-user-id\"","service":"auth-service","stack":"TypeError: Invalid value \"undefined\" for header \"x-user-id\"\n    at ClientRequest.setHeader (node:_http_outgoing:702:3)\n    at new ClientRequest (node:_http_client:302:14)\n    at Object.request (node:http:102:10)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:13:51\n    at new Promise (<anonymous>)\n    at sendProxyRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:11:10)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-25T02:59:13.680Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T03:05:26.056Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:05:35.287Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:05:35.288Z"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"error","message":"Proxy error: Invalid value \"undefined\" for header \"x-user-id\"","service":"auth-service","stack":"TypeError: Invalid value \"undefined\" for header \"x-user-id\"\n    at ClientRequest.setHeader (node:_http_outgoing:702:3)\n    at new ClientRequest (node:_http_client:302:14)\n    at Object.request (node:http:102:10)\n    at /Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:13:51\n    at new Promise (<anonymous>)\n    at sendProxyRequest (/Users/home/Desktop/projects/social-media-microservices/api-gate-way/node_modules/express-http-proxy/app/steps/sendProxyRequest.js:11:10)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-25T03:05:35.308Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T03:08:31.062Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T03:08:42.867Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T03:08:45.629Z"}
+{"level":"info","message":"App at api-gateway started at port 9000","service":"auth-service","timestamp":"2025-08-25T03:09:13.082Z"}
+{"level":"info","message":"request from /v1/post having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:09:23.546Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:09:23.547Z"}
+{"level":"info","message":"request from /v1/post/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:09:56.798Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:09:56.804Z"}
+{"level":"info","message":"request from /v1/post/register having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:11:03.724Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:11:03.725Z"}
+{"level":"info","message":"request from /v1/post/createPost having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:11:44.644Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:11:44.646Z"}
+{"level":"info","message":"request from /v1/post/createPost having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:13:05.361Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:13:05.362Z"}
+{"level":"info","message":"request from /v1/post/createPost having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:13:49.668Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:13:49.670Z"}
+{"level":"info","message":"request from /v1/post/createPost having a method of POST","service":"auth-service","timestamp":"2025-08-25T03:15:02.985Z"}
+{"level":"info","message":"user hit the validateTokenMiddleware","service":"auth-service","timestamp":"2025-08-25T03:15:02.985Z"}
