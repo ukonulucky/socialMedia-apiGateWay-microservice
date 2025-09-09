@@ -1,14 +1,13 @@
 import dotenv from "dotenv"
 dotenv.config()
 import cors from "cors"
-import express, { Request } from "express"
+import express, { NextFunction, Request, Response } from "express"
 import logger from "./utils/logger"
 import helmet from "helmet"
 import proxy from "express-http-proxy"
 import { errorHandler } from "./middleware/errorHandler"
 import { validateTokenMiddleware } from "./middleware/authMiddleware"
 import { CustomRequest } from "./types"
-
 
 const app = express()
 const PORT = process.env.PORT || 5000
@@ -26,12 +25,10 @@ app.use((req, res, next) => {
 
 const proxyOptions = {
     proxyReqPathResolver(req: Request) {
-        console.log(req.originalUrl)
         const newUrl = req.originalUrl.replace(/^\/v1/, "/api")
-        console.log(newUrl)
         return newUrl
     },
-    proxyErrorHandler: (err: any, res: express.Response, next: express.NextFunction) => { 
+    proxyErrorHandler: (err: any, res: Response, next: NextFunction) => { 
         logger.error(`Proxy error:`, err)
         res.status(500).json({
             message: "Internal server error",
@@ -42,7 +39,7 @@ const proxyOptions = {
     }
 }
 
-//endpoints
+//endpoints for auth services
 app.use('/v1/auth', proxy(process.env.AUTH_SERVICE_URL as string, {
     ...proxyOptions,
     proxyReqOptDecorator: (proxyRegOpt, srcReg) => { 
@@ -55,12 +52,23 @@ app.use('/v1/auth', proxy(process.env.AUTH_SERVICE_URL as string, {
    
 }));
 
-
-app.use("/v1/post", validateTokenMiddleware, proxy(process.env.POST_SERVICE_URL as string, { ...proxyOptions,
+// endpoint for contribtion services
+app.use("/v1/contribution", validateTokenMiddleware, proxy(process.env.CONTRIBUTION_SERVICE_URL as string, { ...proxyOptions,
     proxyReqOptDecorator: (proxyRegOpts, srcReq:CustomRequest) => { 
         proxyRegOpts.headers["content-type"] = "application/json"
-        console.log("src", srcReq.userId)
-        proxyRegOpts.headers["x-user-id"] = srcReq.userId 
+        proxyRegOpts.headers["x-user-id"] = proxyRegOpts.headers.userid
+        return proxyRegOpts
+    },
+    userResDecorator(proxyRes, proxyResData, userReq, userRes) {
+        return proxyResData
+    }
+}))
+
+//endpoint for payment-services
+app.use("/v1/payment", validateTokenMiddleware, proxy(process.env.PAYMENT_SERVICE_URL as string, { ...proxyOptions,
+    proxyReqOptDecorator: (proxyRegOpts, srcReq:CustomRequest) => { 
+        proxyRegOpts.headers["content-type"] = "application/json"
+        proxyRegOpts.headers["x-user-id"] = proxyRegOpts.headers.userid
         return proxyRegOpts
     },
     userResDecorator(proxyRes, proxyResData, userReq, userRes) {

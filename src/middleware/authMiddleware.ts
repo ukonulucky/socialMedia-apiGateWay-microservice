@@ -6,13 +6,15 @@ import { CustomRequest, MyJwtPayload } from "../types";
 
 
 export const validateTokenMiddleware = (req: CustomRequest, res: Response, next: NextFunction) => { 
+   
     logger.info("user hit the validateTokenMiddleware")
+    
     const authHeader = req.headers["authorization"]
 
     const token = authHeader && authHeader.split(" ")[1] // seperate the token from the bearer token
 
     if (!token) { 
-        logger.info("Attempt to login with oout a token")
+        logger.info("Attempt to login with out a token")
         res.status(401).json({
             message: "Authorization required",
             status: false
